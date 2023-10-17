@@ -1,1 +1,2 @@
+// A command to switch to a database or create if it doesn't exist
 use my_db
